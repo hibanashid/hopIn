@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-dotenv
+googlemaps
+google-generativeai
+geopy
+requests
+psycopg2-binary
+fastapi-cache2
+aioredis
+fastapi-limiter
+tenacity
